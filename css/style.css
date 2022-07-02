@@ -424,6 +424,7 @@ table th {
 }
 
 .interview{
+  position: relative;
   width: 50%;
 }
 
